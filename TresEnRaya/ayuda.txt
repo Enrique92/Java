@@ -1,0 +1,36 @@
+----------------------- INTRUCCIONES DE JUEGO ------------------------------
+Este es el juego del tres en raya un sencillo, y divertido juego.
+Las reglas son sencillas y son las siguientes:
+1- Para empezar la partida tendremos que pulsar la tecla del menu 
+desplegable que pone "INICIAR", y a continuacion podremos
+empezar una partida.
+2- La partida la gana el jugador que tenga tres fichas seguidas, ya sea 
+en vertical, horizontal o diagonal como se indica en el ejemplo:
+
+  DIAGONAL
+ __________
+|  X  |       |       |
+|       |  X  |       |
+|       |       |  X  |
+
+HORIZONTAL
+ __________
+|  X  |  X  |  X  |
+|       |       |      |
+|       |       |      | 
+
+   VERTICAL
+ __________
+|  X  |       |       |
+|  X  |       |       |
+|  X  |       |       |
+
+3- Si la partida acaba sin ganador, el resultado seria un empate.
+4- Para terminar una partida antes de tiempo, debemos pulsar "FINALIZAR" 
+y podremos volver a empezar una nueva.
+5- Si quieres guardar una partida a medias, solo tienes que pulsar el boton 
+de "GUARDAR" y listo. Si quieres luego continuarla deberas pulsar "CARGAR"
+y te cargara la ultima partida guardada.
+------------------------------------------------------------------------------
+Si tiene alguna duda no dude en mandarnos su pregunta al correo: 
+enrique.alcaide92@gmail.com
